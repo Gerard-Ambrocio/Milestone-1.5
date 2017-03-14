@@ -1,0 +1,86 @@
+
+/*NAVBAR*/
+
+.navbar {
+	height: 95px;
+	margin-bottom: 4px !important;
+	background: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#falsenav{
+	height: 95px;
+
+}
+
+nav li {
+	border-radius: 0px !important;
+	color:#4f4f4f;
+	height: 50px;
+	margin-top: 40px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+nav a {
+	border-radius: 0px !important;
+	color: #b31010;
+}
+
+nav a:hover {
+	color:#222;
+}
+
+#logo{
+	width: 230px;
+	height: 70px;	
+}
+
+.search-bar input {
+    background: white;
+    border: 0;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    padding: 5px 5px 5px 10px;
+    position: relative;
+    width: 15px;
+    z-index: 5;
+}
+
+.search-bar a {
+	    color: #9d9d9d;
+	    width: 10px;
+	    padding: 0 !important;
+}
+
+
+
+
+
+/*TEXT BANNER*/
+
+#banner-text{
+	background-color: #222;
+	height: 40px;
+	color:#fff;
+}
+
+#banner-text > div {
+	margin-top: 10px;
+	text-align: center;
+}	
+
+section{
+	height:100vh
+}
+
+
+
+
+
+
+
+footer {
+	background-color: #191C21;
+}
