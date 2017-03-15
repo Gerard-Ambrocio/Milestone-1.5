@@ -148,10 +148,10 @@ if(!isset($_SESSION['username'])){
 		<div class="row aboutdiv">
 			
 			<div class="col-sm-offset-1 "><h1>About Us</h1>
-			<p> From the our humble origins, in spice sampling throughout the Philippines. <br> Our mission  is to conintinually progress the ascension of the Philippine flavours.<br> Our company provides and promote Philippine spices from the a numerous <br> locations spanning from the top most part of the country in the Bataan group of <br> island, to the many islands of Visayas, the mountain regions of Cordillera as well as the <br> hidden subterannean areas of Mindanao. </p>
+			<p> From our humble origins in spice sampling throughout the Philippines, <br> our mission  is to conintinually progress the ascension of the Philippine flavours.<br> Our company provides and promote Philippine spices from the a numerous <br> locations spanning from the top most part of the country in the Bataan group of <br> island, to the many islands of Visayas, the mountain regions of Cordillera as well as the <br> hidden subterannean areas of Mindanao. </p>
 			<h2>Help us and win!</h2>
 			<p>
-			 We have featured a select few of them every month for you to send us a recipe. Loyal subscibers will <br> recieve the "Spice of the Month", and we will feauture your recipes for the world to know and winners will <br> be  announced and rewarded. Visit in our blog: "TALK + HANG" for more details.</p></div>
+			 We have featured a select few of them every month for you to send us a recipe. Loyal subscibers will <br> recieve the "Spice of the Month", and we will feauture your recipes for the world to know and winners will <br> be  announced and rewarded. Visit our blog: "TALK + HANG" for more details.</p></div>
 			
 		</div>
 
